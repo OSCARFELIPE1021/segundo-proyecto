@@ -1,0 +1,54 @@
+.navbar{
+    background-color: rgb(10, 38, 70);
+    justify-content: center;
+}
+#navbar a{
+    color: rgb(22, 132, 139);
+
+}
+h1{
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p{
+  font-size: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2{
+  font-size: 35px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+nav{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.navbar {
+    justify-content: center;
+}
+li i{
+    font-size: 30px;
+    
+}
+div collapse navbar-collapse{
+    border: rgb(22, 132, 139);
+    border-radius: 12px;
+}
+
+col-sm-8{
+    bottom: 12px;
+    background-color: aquamarine;
+}
+footer{
+    height: 150px;
+    width: 100%;
+    background: darkgreen;
+    color: blue;
+    text-align: center;
+
+}
+footer i{
+    font-size: 30px;
+}
+
